@@ -1,0 +1,12 @@
+{
+  "name": "BeeDoo",
+  "displayName": "BeeDoo",
+  "expo": {
+    "name": "BeeDoo",
+    "slug": "BeeDoo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
