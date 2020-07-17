@@ -5,8 +5,17 @@
     "name": "BeeDoo",
     "slug": "BeeDoo",
     "version": "1.0.0",
+    "icon":"./app-logo.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.soukied.BeeDoo",
+      "versionCode":1
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
+    }
   }
 }
